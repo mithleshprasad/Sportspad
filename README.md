@@ -1,7 +1,6 @@
-Here's an updated and beautified version of your `README.md` file for your GitHub project "Sportspad":
 
----
 
+```markdown
 # Sportspad
 
 ![Sportspad](https://profoliomith.netlify.app/static/media/sportspad.b0bcb202efc20701463d.jpeg)
@@ -9,6 +8,7 @@ Here's an updated and beautified version of your `README.md` file for your GitHu
 Sportspad is an interactive web application developed using modern web technologies to provide real-time cricket score updates. This project highlights my proficiency in front-end development, API integration, and UI/UX design.
 
 ## Technologies Used
+
 - **ReactJS**
 - **HTML**
 - **SCSS**
@@ -16,6 +16,7 @@ Sportspad is an interactive web application developed using modern web technolog
 - **Postman**
 
 ## Features
+
 - **Real-Time Updates**: Seamlessly integrates a 3rd-party cricket live score API to provide real-time match updates.
 - **User-Friendly Interface**: Designed with a focus on user experience and ease of use.
 - **Responsive Design**: Ensures optimal viewing across various devices and screen sizes.
@@ -26,25 +27,33 @@ Sportspad is an interactive web application developed using modern web technolog
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/Sportspad.git
-    ```
+
+```bash
+git clone https://github.com/mithleshprasad/Sportspad.git
+```
+
 2. **Navigate to the project directory**:
-    ```bash
-    cd Sportspad
-    ```
+
+```bash
+cd Sportspad
+```
+
 3. **Install dependencies**:
-    ```bash
-    npm install
-    ```
+
+```bash
+npm install
+```
+
 4. **Start the development server**:
-    ```bash
-    npm start
-    ```
+
+```bash
+npm start
+```
 
 ## Usage
 
 Once the development server is running, you can view the project by opening your browser and navigating to:
+
 ```
 http://localhost:3000
 ```
@@ -67,7 +76,5 @@ If you have any questions or feedback, feel free to reach out:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+```
 
----
-
-Replace `your-username` in the clone command with your actual GitHub username. This version includes all the provided links and contact details.
