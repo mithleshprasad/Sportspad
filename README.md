@@ -1,4 +1,3 @@
-Sure! Here is the updated and beautified version of your `README.md` file for your GitHub project "Sportspad":
 
 ---
 
@@ -69,5 +68,3 @@ If you have any questions or feedback, feel free to reach out:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ---
-
-This version includes all the provided links, contact details, and instructions for running the project locally, making it clear and visually appealing.
